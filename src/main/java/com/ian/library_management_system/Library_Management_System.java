@@ -2,10 +2,6 @@ package com.ian.library_management_system;
 
 import java.util.Scanner;
 
-/**
- *
- * @author Ian Tagano
- */
 
 //This is the main class 
 public class Library_Management_System 
